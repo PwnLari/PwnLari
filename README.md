@@ -1,8 +1,6 @@
 👋 Olá, sou Larissa Cristina Alves!
 💻 Analista de TI | 🔐 Segurança da Informação | 🛡️ SIEM & Offensive Security
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white
-
 🛠️ Tech Stack
 Linux Windows Python SQL
 Burp Suite OWASP ZAP Nmap Wireshark Splunk
