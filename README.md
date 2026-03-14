@@ -7,6 +7,12 @@ Burp Suite OWASP ZAP Nmap Wireshark Splunk
 
 👩‍💻 Sobre mim
 🎯 Em transição para Segurança da Informação
+
+
+
+
+
+
 📊 2+ anos como Analista de TI (Linx Sistemas)
 📚 Estudando: Splunk • Ethical Hacking (Cisco) • Tecnólogo em Segurança da Informação (Fadergs)
 
