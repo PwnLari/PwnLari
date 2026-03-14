@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Olá, sou Larissa Cristina Alves!
+💻 Analista de TI | 🔐 Segurança da Informação | 🛡️ SIEM & Offensive Security
 
-<!--
-**PwnLari/PwnLari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white
 
-Here are some ideas to get you started:
+🛠️ Tech Stack
+Linux Windows Python SQL
+Burp Suite OWASP ZAP Nmap Wireshark Splunk
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩‍💻 Sobre mim
+🎯 Em transição para Segurança da Informação
+📊 2+ anos como Analista de TI (Linx Sistemas)
+📚 Estudando: Splunk • Ethical Hacking (Cisco) • Tecnólogo em Segurança da Informação (Fadergs)
+
+📌 Projetos
+🔹 Lab SIEM com Splunk – Configuração, coleta de logs e simulação de ataques
+🔹 Estudos em Segurança Ofensiva – Anotações e laboratórios práticos
+
+<div align="center"> <i>"Segurança é processo, não produto." – Bruce Schneier</i> </div>
