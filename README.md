@@ -17,10 +17,11 @@
 
 ## 👩‍💻 Sobre mim
 
-🎯 Em transição para **Segurança da Informação**  
+🎯 Em busca da primeiro oportunidade em **SOC N1,**  **Blue Team,** e **Respostas a Incidentes**.
+
 📊 **Analista de TI** com experiência anterior na **Linx Sistemas**, atuando com suporte técnico e análise de sistemas.  
 📚 Graduanda em **Segurança da Informação (Faculdade Fadergs)**  
-🏅 Certificações em foco: **Junior Penetration Tester (TryHackMe)**, **Ethical Hacking (Cisco)**, **Conceitos de Redes (Cisco)** e **Analista de Cibersegurança Junior (Cisco)**
+🏅 Certificações em foco: **Junior Penetration Tester (TryHackMe)**, **Ethical Hacking (Cisco)**, e **Analista de Cibersegurança Junior (Cisco)**
 
 ---
 
